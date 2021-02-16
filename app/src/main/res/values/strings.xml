@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Homework1</string>
+    <string name="welcome_word">Hello World! You are in the welcome activity!\n Please, select the way you wanna run this program.</string>
+    <string name="welcome_actvity_b">You are on the activity B right now!</string>
+</resources>
